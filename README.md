@@ -1,2 +1,2 @@
 # User-Management-System
- User Management System using Entity Framework
+ User Management System using the Entity Framework
